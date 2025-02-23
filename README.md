@@ -1,5 +1,5 @@
 # MFD-Display
-#This replica of MFD  (Multi Function Display) used in early 2000  
+# This replica of MFD  (Multi Function Display) used in early 2000  
 import tkinter as tk
 from tkinter import ttk
 import random
